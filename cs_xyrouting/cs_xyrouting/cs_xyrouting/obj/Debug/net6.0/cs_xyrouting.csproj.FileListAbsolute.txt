@@ -1,0 +1,15 @@
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.csproj.AssemblyReference.cache
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.AssemblyInfoInputs.cache
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.AssemblyInfo.cs
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.csproj.CoreCompileInputs.cache
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\bin\Debug\net6.0\cs_xyrouting.exe
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\bin\Debug\net6.0\cs_xyrouting.deps.json
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\bin\Debug\net6.0\cs_xyrouting.runtimeconfig.json
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\bin\Debug\net6.0\cs_xyrouting.dll
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\bin\Debug\net6.0\cs_xyrouting.pdb
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.dll
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\refint\cs_xyrouting.dll
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.pdb
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\cs_xyrouting.genruntimeconfig.cache
+C:\Users\Rezafta\Desktop\cs_xyrouting\cs_xyrouting\cs_xyrouting\obj\Debug\net6.0\ref\cs_xyrouting.dll
